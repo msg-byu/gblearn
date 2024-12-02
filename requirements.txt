@@ -15,7 +15,7 @@ bump2version==0.5.11
 certifi==2020.12.5
 chardet==4.0.0
 Click==7.0
-cookiecutter==1.7.3
+cookiecutter==2.1.1
 cycler==0.10.0
 DateTime==4.3
 decorator==5.0.9
